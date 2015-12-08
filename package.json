@@ -11,7 +11,6 @@
   "bin": {
     "buildinator": "buildinator.js"
   },
-  "files": ["failure.mp3", "success.mp3"],
   "dependencies": {
     "commander": "^2.9.0",
     "jenkins": "^0.11.0",
